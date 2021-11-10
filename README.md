@@ -8,6 +8,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
+In this project i using axios fot fetching the data from the Bitstamp api.\
+bootstrap to design the table.\
+useEffect to make the call to api call.\
+useState to save the data from the api.\
+Thank you.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
